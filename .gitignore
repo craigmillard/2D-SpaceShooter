@@ -33,3 +33,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Level1.unity
+Assets/Level1.unity
+Library/assetDatabase3
+Library/AssetImportState
+Library/CurrentLayout.dwlt
+Library/EditorUserBuildSettings.asset
+Library/expandedItems
+Library/LastSceneManagerSetup.txt
